@@ -1,2 +1,2 @@
 # my very first repo
-Kalob is an awesome teacher! I will leave him a nice review?
+github 101 project
